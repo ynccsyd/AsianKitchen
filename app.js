@@ -82,6 +82,7 @@ const menu = [
   },
 ];
 
+
 let btnDOM = document.querySelector(".btn-container")  
 
 let AllCategories = menu.map((item) => item.category)
